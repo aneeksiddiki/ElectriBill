@@ -1,1 +1,1 @@
-Electric Bill Payment Managment
+Electric Bill Payment Management in Laravel
